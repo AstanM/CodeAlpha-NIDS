@@ -14,6 +14,12 @@ The laboratory uses Ubuntu 22.04 as the intrusion detection server and Kali Linu
 - Simulate network activities using Kali Linux.
 - Analyze alerts and security events.
 
+## Laboratory Overview
+
+![NIDS Lab Architecture](screenshots/01-lab-architecture.png)
+
+![Suricata Operational Status](screenshots/02-suricata-status.png)
+
 ## Lab Environment
 
 | Component | Details |
