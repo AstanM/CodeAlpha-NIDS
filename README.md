@@ -87,4 +87,10 @@ This project was developed as part of the CodeAlpha Cyber Security Internship Pr
 
 ## Author
 
-Cybersecurity and Network Administration Student
+**Astan Mve Sidibé**
+
+Master 1 Student in Information Systems Security at ESMT.
+
+Background in Telecommunications and IT, specializing in Network Administration and Security.
+
+Interested in cybersecurity, network security, and intrusion detection systems.
